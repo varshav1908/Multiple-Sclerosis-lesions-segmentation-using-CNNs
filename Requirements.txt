@@ -1,0 +1,5 @@
+pip install imutils --user
+pip install opencv-python --user
+pip install tensorflow==1.15.0 --user
+pip install keras==2.2.4 --user
+pip install pillow==7.0.0 --user
